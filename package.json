@@ -1,0 +1,9 @@
+{
+  "name": "create-webmaker-app",
+  "version": "0.0.1",
+  "description": "WYSIWYG for Redwoodjs",
+  "main": "index.js",
+  "repository": "https://github.com/webmakerapps/create-webmaker-app.git",
+  "author": "John <johndevor@gmail.com>",
+  "license": "MIT"
+}
